@@ -1,1 +1,1 @@
-Android application using google cloud messaging 3.0
+Android application demo using google cloud messaging 3.0
