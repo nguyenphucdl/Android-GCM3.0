@@ -1,0 +1,4 @@
+1. http://code.tutsplus.com/tutorials/an-introduction-to-volley--cms-23800     				----Volley----
+2. http://www.androidhive.info/2014/05/android-working-with-volley-library-1/  				----Volley----
+3. http://code.tutsplus.com/tutorials/android-fundamentals-intentservice-basics--mobile-6183   		----Intent-Service----
+4. https://developers.google.com/cloud-messaging/android/client 					----Google-Cloud-Messaging-3.0----
